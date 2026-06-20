@@ -12,7 +12,7 @@ This repository contains the source code for my portfolio website. It features a
 - `about@.html`: Information about me, my awards, publications, and selected clients.
 - `work@.html`: A directory of my projects and case studies.
 - `work/`: Detailed pages for individual projects.
-- `assets/`: Contains the CSS (`miranda-paper-portfolio.webflow.min.css`), JavaScript, and images used throughout the site.
+- `assets/`: Contains the CSS , JavaScript, and images used throughout the site.
 
 ## Hosting on Render (Instructions)
 
@@ -26,7 +26,7 @@ This is a static site (HTML/CSS/JS). To host this on Render for free:
    - **Build Command**: Leave blank (not needed for static sites).
    - **Publish Directory**: `.` (the root directory).
 6. Click **Create Static Site**.
-7. Render will automatically deploy your site and provide you with a live URL (e.g., `https://your-portfolio-name.onrender.com`).
+7. Render will automatically deploy your site and provide you with a live URL .
 
 ## Connect with Me
 
