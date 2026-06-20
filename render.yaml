@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: gajji-sathvik-portfolio
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
